@@ -1,0 +1,15 @@
+ 
+ Variables: Es el Contenedor en los que puedes almacenar valores.
+
+ Strings:es uno de los tipos de datos primitivos de JavaSript. Son variables en donde se almacena texto, es decir cualquier combinación o cantidad de caracteres.
+
+ Funciones:
+  argumentos:valor real pasado como input (valor de entrada) a una función.
+  return: es una palabra reservada que se utiliza para terminar o “cortar” con la ejecución de una función o bloque de código. Un statement(sentencia) que comienza con return especifica el valor que debe retornar dicha función o bloque de código.
+  
+Declaraciones `if`: condicional
+
+Valores booleanos (`true`, `false`): retorna un unico valor, verdadero o falso.-
+
+True:
+false:
