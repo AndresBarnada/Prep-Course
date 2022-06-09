@@ -1,0 +1,12 @@
+Glosario Extras Homework
+
+1) `for` : asignacion de tareas por un lapso determinados.
+
+
+2) `&&`: conector de operacion matematicas, "y". 
+
+
+3) `||`: conector de operacion, "O"
+
+
+4)  `!` conetor de opetacion, "Not". not something, example !==. 
